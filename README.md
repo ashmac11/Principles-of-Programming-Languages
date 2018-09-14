@@ -108,4 +108,4 @@ ___
 ___
 
 ## Author
- [Ashleigh McAdams] (/LICENSE)
+ [Ashleigh McAdams]
